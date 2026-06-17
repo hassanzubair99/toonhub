@@ -1,0 +1,6 @@
+{
+  "name": "Toonhub",
+  "description": "A character-figurine carousel hero section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
